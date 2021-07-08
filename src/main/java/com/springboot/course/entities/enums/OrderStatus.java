@@ -2,8 +2,8 @@ package com.springboot.course.entities.enums;
 
 public enum OrderStatus {
 	
-	WAITING_PAYMENT(1),
-	PAID(2),
+	PAID(1),
+	WAITING_PAYMENT(2),
 	SHIPPED(3),
 	DELIVERED(4),
 	CANCELED(5);
